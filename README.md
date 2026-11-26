@@ -1,6 +1,6 @@
 # Sidequest — Dinner & Ride
 
-**[Try the live app](https://sidequest-dinner-ride.jajamjamjamijamiejamie.chatgpt.site)** · [Source](https://github.com/Jameslovecs/sidequest)
+**[Try the live app](https://sidequest-dinner-ride.jamesbonds520.chatgpt.site)** · [Source](https://github.com/Jameslovecs/sidequest)
 
 A free, account-free San Francisco evening planner. Describe a dinner, compare curated restaurants, choose one, adjust your departure plan, and open the restaurant, Uber, or Google Maps to complete the next step.
 
