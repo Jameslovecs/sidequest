@@ -1,0 +1,9 @@
+{
+  "name": "sidequest-dinner-ride",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An account-free San Francisco dinner and ride planner",
+  "scripts": { "dev": "node server.mjs", "test": "node --test", "check": "node --check dist/app.js && node --check dist/planner.js" },
+  "engines": { "node": ">=20" }
+}
